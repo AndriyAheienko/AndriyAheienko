@@ -42,8 +42,8 @@ A responsive platform for discovering, filtering, and saving video games. Includ
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ageyan&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageyan&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ageyan&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ageyan&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
