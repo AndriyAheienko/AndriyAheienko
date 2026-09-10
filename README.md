@@ -11,24 +11,24 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Item Rental Platform (RentIt)](https://andreii-sharing-platform.vercel.app)
+### 🔹 [Item Rental Platform (RentIt)](https://aheienko-sharing-platform.vercel.app)
 A full-stack web application for renting and sharing items. Features real-time chat via WebSockets, JWT authentication, and automatic image optimization.
 *Stack: React, TypeScript, SASS, Node.js, Express, PostgreSQL, Socket.io*<br>
-📂 [Source Code](https://github.com/Ageyan/sharing-platform-rentit)
+📂 [Source Code](https://github.com/AndriyAheienko/sharing-platform-rentit)
 
 ---
 
-### 🔹 [Mini-CRM System](https://mini-crm-project-kela.vercel.app)
+### 🔹 [Mini-CRM System](https://aheienko-mini-crm.vercel.app)
 A modern CRM application for efficient client and task management, featuring full CRUD operations, dynamic task filtering, and secure data handling.
 *Stack: React, TypeScript, Node.js, Express, MongoDB, Mongoose*<br>
-📂 [Source Code](https://github.com/Ageyan/mini-crm)
+📂 [Source Code](https://github.com/AndriyAheienko/mini-crm)
 
 ---
 
-### 🔹 [Games Catalog](https://andrei-games-catalog.vercel.app)
+### 🔹 [Games Catalog](https://aheienko-games-catalog.vercel.app)
 A responsive platform for discovering, filtering, and saving video games. Includes a personalized "Favorites" system linked to authenticated user profiles.
 *Stack: React, TypeScript, Node.js, Express, MongoDB*<br>
-📂 [Source Code](https://github.com/Ageyan/games-catalog)
+📂 [Source Code](https://github.com/AndriyAheienko/games-catalog)
 
 ---
 
@@ -42,8 +42,8 @@ A responsive platform for discovering, filtering, and saving video games. Includ
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ageyan&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ageyan&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AndriyAheienko&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AndriyAheienko&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
