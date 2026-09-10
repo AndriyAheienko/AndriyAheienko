@@ -1,77 +1,59 @@
-# <h1 align="center">👋 Привіт, мене звати Андрій</h1>
-<h3 align="center"> Full Stack - розробник </h3>
+# <h1 align="center">👋 Hi there, I'm Andrey!</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
-<p align="center">Я початківець <strong>**Full Stack - розробник**</strong>. На данний момент проходжу навчання, опановую <strong>**JavaScript, React, HTML, CSS/SCSS**</strong> та створюю невеликі проекти для практики.
-Хочу розвиватися у веб-розробці та створювати сучасні, зручні сайти та додатки.  </p>
+<p align="center">
+  I am a motivated <strong>Full Stack Developer</strong> focused on building responsive, user-centric web applications and robust RESTful APIs. My core stack revolves around the modern JavaScript ecosystem, including <strong>React, TypeScript, Node.js,</strong> and databases like <strong>PostgreSQL</strong> and <strong>MongoDB</strong>. I am passionate about clean architecture, solving complex technical problems, and continuously improving my skills through hands-on development.
+</p>
 
 ---
 
-## Мої проекти
+## 🚀 Featured Projects
 
-### 🔹 [Urban Taste](https://urban-taste-react.vercel.app)
-Сайт ресторану на React з використанням маршутизації, адаптивної верстки, формою зворотного зв'язку та інших інструментів.  
-📂 [Код проекта](https://github.com/ageyan/urban-taste-react)
-
----
-
-### 🔹 [Lida's Website](https://ageyan.github.io/lidas-website-react/)
-Лендінг на React з адаптивною версткою, слайдером і формою зворотного зв'язку.  
-📂 [Код проекта](https://github.com/ageyan/lidas-website-react)
+### 🔹 [Item Rental Platform (RentIt)](https://andreii-sharing-platform.vercel.app)
+A full-stack web application for renting and sharing items. Features real-time chat via WebSockets, JWT authentication, and automatic image optimization.
+*Stack: React, TypeScript, SASS, Node.js, Express, PostgreSQL, Socket.io*<br>
+📂 [Source Code](https://github.com/Ageyan/andreii-sharing-platform)
 
 ---
 
-### 🔹 [Harry-Potter Website](https://ageyan.github.io/harry-potter-website/)
-Лендінг з адаптивною версткою, слайдером і використанням api.  
-📂 [Код проекта](https://github.com/ageyan/harry-potter-website)
+### 🔹 [Mini-CRM System](https://mini-crm-project-kela.vercel.app)
+A modern CRM application for efficient client and task management, featuring full CRUD operations, dynamic task filtering, and secure data handling.
+*Stack: React, TypeScript, Node.js, Express, MongoDB, Mongoose*<br>
+📂 [Source Code](https://github.com/Ageyan/andrei-mini-crm)
 
 ---
 
-### 🔹 [Beauty-Zone Website](https://ageyan.github.io/genius-homework-4/)
-Лендінг салону краси з адаптивною версткою, слайдером з використанням HTML та SASS.  
-📂 [Код проекта](https://github.com/ageyan/genius-homework-4)
-
----
-
-### 🔹 [Shop-Bakery Website](https://ageyan.github.io/shop-bakery/)
-Лендінг пекарні адаптивною версткою, слайдером з використанням HTML та SASS.  
-📂 [Код проекта](https://github.com/ageyan/shop-bakery)
-
----
-
-### 🔹 [Tip-Calculator](https://ageyan.github.io/tip-calculator/)
-Калькулятор для підрахунку чайових з використанням JS.  
-📂 [Код проекта](https://github.com/ageyan/tip-calculator)
-
----
-
-### 🔹 [Pin-JS Website](https://ageyan.github.io/pin-js/)
-Імітація пін коду з використанням JS.  
-📂 [Код проекта](https://github.com/ageyan/shop-bakery)
+### 🔹 [Games Catalog](https://andrei-games-catalog.vercel.app)
+A responsive platform for discovering, filtering, and saving video games. Includes a personalized "Favorites" system linked to authenticated user profiles.
+*Stack: React, TypeScript, Node.js, Express, MongoDB*<br>
+📂 [Source Code](https://github.com/Ageyan/andrei-games-catalog)
 
 ---
 
 <div align="center">
-  <h2>🛠️ Технології</h2>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,git,github,vscode" />
+  <h2>🛠️ Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,postgres,html,css,sass,vite,git,github,vscode" alt="Tech Stack" />
 </div>
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ageyan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageyan&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ageyan&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageyan&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 
 <div align="center">
-  <h2>📫 Зв'язатися зі мною</h2>
-  <a href="https://t.me/Ageyan"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:ageenko01114444@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <h2>📫 Get in Touch</h2>
+  <a href="https://t.me/Ageyan"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:ageenko01114444@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
 ---
 
-<h2 align="center">У майбутньому список проектів поповнюватиметься!</h2>
+<h3 align="center">Always open to new opportunities and interesting projects!</h3>
